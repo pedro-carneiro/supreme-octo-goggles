@@ -1,0 +1,47 @@
+[
+  {
+    "name": "boiled eggs",
+    "products": [
+      {
+        "id": 3,
+        "name": "eggs",
+        "priceInCents": 300,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "fried eggs",
+    "products": [
+      {
+        "id": 1,
+        "name": "salt",
+        "priceInCents": 25,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "eggs",
+        "priceInCents": 300,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "cheeseburger",
+    "products": [
+      {
+        "id": 4,
+        "name": "cheese",
+        "priceInCents": 500,
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "name": "beef",
+        "priceInCents": 1500,
+        "quantity": 1
+      }
+    ]
+  }
+]

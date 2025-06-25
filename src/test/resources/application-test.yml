@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: recipe
+  liquibase:
+    enabled: true
+    change-log: classpath:db/changelog-test-root.yml
+    user: test
+    password: test
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: test
+    password: test

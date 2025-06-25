@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: recipe
+  liquibase:
+    enabled: true
+    change-log: classpath:db/changelog-root.yml
+    url: jdbc:postgresql://localhost:5432/source_data
+    user: postgres
+    password: pgdata
+  datasource:
+    url: jdbc:postgresql://localhost:5432/source_data
+    username: postgres
+    password: pgdata
+    driver-class-name: org.postgresql.Driver

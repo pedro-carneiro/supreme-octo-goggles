@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "products": [
+    {
+      "id": 3,
+      "name": "eggs",
+      "priceInCents": 300,
+      "quantity": 1
+    }
+  ],
+  "totalInCents": 300
+}
